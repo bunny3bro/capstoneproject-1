@@ -1,0 +1,468 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+#head{
+	height: 600px;
+	width: 900px;
+	background-color: #34eacb;
+	padding-top: 100px;
+}
+#himg{
+	height: 400px;
+	width: 600px;
+	background-image: url(../capimg/himg.jpg);
+	background-size: cover;
+}
+#htext{
+	color: white;
+	font-size: 50px;
+	padding-left: 450px;
+}
+#block{
+	height: 220px;
+	width: 320px;
+
+	position: relative;
+	top: 80px;
+	left: 250px;
+}
+#hr{
+	height: 100px;
+	width: 320px;
+}
+#gap{
+	height: 20px;
+	width: 320px;
+}
+#il{
+	height: 100px;
+	width: 150px;
+	float: left;
+	background-color: white;
+}
+#ig{
+	height: 100px;
+	width: 20px;
+	float: left;
+}
+#ir{
+	height: 100px;
+	width: 150px;
+	float: right;
+	background-color: white;
+}
+#ico{
+	height: 80px;
+	width: 80px;
+	font-size: 70px;
+	color: #34eacb;
+}
+#food{
+	height: 450px;
+	width: 900px;
+}
+#ft{
+	height: 450px;
+	width: 300px;
+	float: left;
+	padding-top: 100px;
+}
+#fimg{
+	height: 450px;
+	width: 450px;
+	float: right;
+}
+#foodi{
+	height: 450px;
+	width: 450px;
+}
+#fapp{
+	text-align: left;
+}
+#read{
+	height: 30px;
+	width: 100px;
+	background-color: #34eacb;
+	color: white;
+	border: 3px solid #34eacb;
+}
+#ifuture{
+	height: 600px;
+	width: 900px;
+	background-color: #34eacb;
+}
+#if1{
+	height: 600px;
+	width: 450px;
+	float: left;
+	padding-top: 100px;
+	padding-left: 50px;
+	text-align: left;
+}
+#if2{
+	height: 600px;
+	width: 450px;
+	float: right;
+	background-size: cover;
+	position: relative;
+	top: 50px;
+	right: 100px;
+}
+#ifimg{
+	height: 450px;
+	width: 450px;
+}
+#ifh{
+	color: white;
+}
+#r2{
+	width: 100px;
+	background-color: #34eacb;
+	color: white;
+	border: 2px solid white;
+}
+#cr{
+	height: 50px;
+	width: 50px;
+	border-radius: 25px;
+	background-color: #40f2e6;
+	position: relative;
+	bottom: 250px;
+}
+#cr2{
+	height: 160px;
+	width: 160px;
+	border-radius: 80px;
+	background-color: darkgreen;
+	position: relative;
+	bottom: 75px;
+	left: 175px;
+}
+#dev{
+	height: 600px;
+	width: 900px;
+	background-color: white;
+}
+#devimg{
+	height: 600px;
+	width: 600px;
+	float: left;
+	background-size: cover;
+}
+#devt{
+	height: 600px;
+	width: 300px;
+	float: left;
+}
+#dimg{
+	height: 509px;
+	width: 600px;
+	background-image: url(../capimg/rtt.jpg);
+	background-size: cover;
+	position: relative;
+	bottom: 170px;
+	left: 100px;
+}
+#devtext{
+	width: 400px;
+	color: black;
+	background-color: white;
+	position: relative;
+	top: 250px;
+	left: 300px;
+}
+#devg{
+	height: 200px;
+	width: 300px;
+	background-color: darkgreen;
+	position: relative;
+	top: 370px;
+	left: 250px;
+}
+#ser{
+	height: 600px;
+	width: 900px;
+	background-color: #34eacb;
+}
+#sert{
+	height: 314px;
+	width: 350px;
+	background-color: white;
+	float: left;
+	padding: 30px;
+	text-align: left;
+	position: relative;
+	left: 100px;
+}
+#serimg{
+	height: 314px;
+	width: 314px;
+	float: left;
+	position: relative;
+	left: 100px;
+}
+#seri{
+	height: 314px;
+	width: 314px;
+	background-size: cover;
+}
+#serb{
+	height: 20px;
+	width: 100px;
+	background-color: transparent;
+	color: black;
+	border: 2px solid black;
+	text-align: center;
+}
+#sertb{
+	height: 120px;
+	width: 200px;
+	background-color: white;
+	color: #34eacb;
+	text-align: left ;
+	position: relative;
+	bottom: 80px;
+	left: 100px;
+}
+#cr3{
+	height: 100px;
+	width: 100px;
+	background-color: darkgreen;
+	border-radius: 50px;
+	position: relative;
+	top: 450px;
+	right: 350px;
+}
+#cr4{
+	height: 50px;
+	width: 50px;
+	background-color: #40f2e6;
+	border-radius: 25px;
+	position: relative;
+	left: 310px;
+	bottom: 30px;
+}
+#team{
+	height: 600px;
+	width: 900px;
+	background-color: white;
+	padding-top: 50px;
+}
+#bgs{
+	height: 500px;
+	width: 500px;
+	background-color: #34eacb;
+	border-radius:  64% 36% 77% 23% / 73% 10% 90% 27% ;
+	padding-right: 300px ;                    
+}
+#cr5{
+	height: 200px;
+	width: 200px;
+	background-color: #34eacb;
+	border-radius: 100px;
+}
+#gimg{
+	height: 400px;
+	width: 800px;
+	position: relative;
+	right: 150px;
+	bottom: 150px;
+}
+#gimg1{
+	height: 400px;
+	width: 400px;
+	float: left;
+}
+#gimgr{
+	height: 200px;
+	width: 400px;
+}
+#gt{
+	height: 200px;
+	width: 200px;
+	background-color: darkgreen;
+	color: white;
+	float: left;
+}
+#gimgc{
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	background-size: cover;
+	float: left;
+}
+#pic1{
+	height: 400px;
+	width: 400px;
+	background-size: cover;
+}
+#pic2{
+	height: 200px;
+	width: 200px;
+	background-size: cover;
+}
+#gtt{
+	text-align: left;
+}
+#fea{
+	height: 600px;
+	width: 900px;
+	background-color: #34eacb;
+}
+#feah{
+	height: 200px;
+	width: 900px;
+}
+#fead{
+	height: 300px;
+	width: 900px;
+}
+#feab{
+	height: 100px;
+	width: 900px;
+}
+#feah{
+	text-align: center;
+	color: #f0fff5;
+}
+#feaht{
+	font-size: xx-large;
+	color: white;
+}
+#fg1{
+	height: 300px;
+	width: 100px;
+	background-color: #34eacb;
+	float: left;
+}
+#fg2{
+	height: 300px;
+	width: 20px;
+	background-color: #34eacb;
+	float: left;
+}
+#fb{
+	height: 300px;
+	width: 220px;
+	background-color: darkblue;
+	float: left;
+}
+#fico{
+	height: 100px;
+	width: 220px;
+	background-color: #97f4e4;
+	text-align: center;
+	font-size: 80px;
+	color: white;
+}
+#ftext{
+	height: 200px;
+	width: 220px;
+	background-color: #97f4e4;
+	text-align: center;
+	color: white;
+}
+#faq{
+	height: 700px;
+	width: 900px;
+	background-color: white;
+}
+#faqh{
+	height: 150px;
+	width: 500px;
+}
+#q1{
+	height: 50px;
+	width: 500px;
+	background-color: #34eacb;
+	color: white;
+	text-align: left;
+	padding-left: 40px;
+}
+#q1a{
+	height: 150px;
+	width: 500px;
+}
+#q2{
+	height: 50px;
+	width: 500px;
+	background-color: white;
+	border-bottom: 2px solid #34eacb;
+	color: #34eacb;
+	text-align: left;
+	padding-left: 40px;
+}
+#qg{
+	height: 100px;
+	width: 500px;
+	background-color: white;
+}
+#con{
+	height: 100px;
+	width: 500px;
+	background-color: white;
+	text-align: center;
+}
+#fqt{
+	color: black;
+	text-align: center;
+}
+#arr{
+	text-align: right;
+	position: relative;
+	bottom: 18px;
+	right: 20px;
+}
+#info{
+	height: 100px;
+	width: 900px;
+	background-color: black;
+}
+#call{
+	height: 100px;
+	width: 300px;
+	float: left;
+	padding-left: 50px;
+	padding-top: 25px;
+	background-color: #229682;
+}
+#map{
+	height: 100px;
+	width: 300px;
+	float: left;
+	padding-left: 50px;
+	padding-top: 25px;
+	background-color: #34eacb;
+}
+#gmail{
+	height: 100px;
+	width: 300px;
+	float: left;
+	padding-left: 50px;
+	padding-top: 25px;
+	background-color: #7df1dd;
+}
+#infoico{
+	height: 50px;
+	width: 50px;
+	float: left;
+}
+#infod{
+	height: 50px;
+	width: 150px;
+	float: left;
+}
+#left{
+	text-align: left;
+}
+#right{
+	text-align: right;
+}
+#inico{
+	color: white;
+	font-size: 30px;
+	padding-top: 10px;
+	padding-right: 10px;
+}
